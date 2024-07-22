@@ -1,0 +1,42 @@
+@import
+url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+  background-image: url("./snow.jpg");
+  background-size:cover;
+   background-position: center center;
+   display:flex;
+   flex-direction:column;
+   align-items:center;
+   min-height:100hv;
+   font-family: "Caveat", cursive;
+   margin:0;
+  }
+    h1{
+    font-weight:normal;
+    font-size:6rem;
+    margin-top:5rem;
+    }
+  .countdown-container{
+  display:flex;
+  flex-warp: warp;
+  }
+
+  .big-text{
+   font-weight:bold;
+   font-size:8rem;
+   line-height:1;
+   margin:0 2rem;
+  }
+
+  .countdown-el{
+  text-align:center;
+  }
+  .countdown-el span{
+    font-weight:bold;
+    font-size: 2rem;
+  }
