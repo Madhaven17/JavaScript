@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
+
+
+*{
+ sizing-box:border-box;
+}
+
+  body{
+      background-color: #91d370;
+      background-attachment: fixed;
+      display:flex;
+      flex-direction:column;
+      align-items:center;
+      justify-content:center;
+      background-image: linear-gradient(319deg, #91d370 0%, #bca0ff 37%, #f2cd54 100%);
+      font-family: "Caveat", cursive;
+      margin:0;
+      min-height:100hv;
+  }
+  input{
+    border-radius:10px;
+    font-family:"Caveat";
+    background-image: linear-gradient(315deg, #0cbaba 0%, #380036 74%);
+    font-size:2rem;
+    padding:1rem;
+    margin-bottom:2rem;
+  }
+  input::placeholder{
+  color:white;
+  }
+
+input, select, textarea{
+    color: white;
+}
+
+  .card{
+    background-color: #0cbaba;
+    background-image: linear-gradient(315deg, #0cbaba 0%, #380036 74%);
+    border-radius:20px;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px;
+    display:flex;
+    padding :2rem;
+    max-width:800px;
+  }
+  .image-container{
+        display:flex;
+        align-items:center;
+        justify-content:center;
+  }
+  .avatar{
+          border:10px linear-gradient(315deg, #0cbaba 0%, #380036 74%);
+          border-radius:50%;
+          height:120px;
+          width:120px;
+  }
+
+  .user-info{
+        color:white;
+        margin-left:2rem;
+  }
+
+  .user-info h2{
+   margin-top:0;
+  }
+  .user-info ul{
+   display:flex;
+   justify-content:space-between;
+   list-style-type:none;
+   padding:0;
+   max-width:400px;
+  }
+  .user-info ul li {
+    display:flex;
+    align-items:center;
+  }
+  .user-info ul li strong{
+        font-size:0.9rem;
+        margin-left:0.5rem;
+  }
