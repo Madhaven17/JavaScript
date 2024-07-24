@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0753392-89ae-4e05-acbd-65ed99136b48" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/javaScript/src/GitHubProfileMaker/GitHubProfile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaScript/src/GitHubProfileMaker/GitHubProfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaScript/src/GitHubProfileMaker/style.css" afterDir="false" />
+    <list default="true" id="e0753392-89ae-4e05-acbd-65ed99136b48" name="Changes" comment="created a new project of api for git profile search in java Script.">
+      <change afterPath="$PROJECT_DIR$/javaScript/src/AutoWriteText/AutoWrite.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaScript/src/AutoWriteText/AutoWrite.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaScript/src/AutoWriteText/Style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaScript/src/CreateNotes/Notes.js" beforeDir="false" afterPath="$PROJECT_DIR$/javaScript/src/CreateNotes/Notes.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,14 +34,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/msuser1/personal_workspace/JavaScript"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/msuser1/personal_workspace/JavaScript&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,6 +51,19 @@
       <option name="presentableId" value="Default" />
       <updated>1721633474114</updated>
     </task>
+    <task id="LOCAL-00001" summary="created a new project of api for git profile search in java Script.">
+      <option name="closed" value="true" />
+      <created>1721738655682</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721738655682</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="created a new project of api for git profile search in java Script." />
+    <option name="LAST_COMMIT_MESSAGE" value="created a new project of api for git profile search in java Script." />
   </component>
 </project>
